@@ -1,0 +1,33 @@
+body{
+    background-attachment: fixed;
+    background-image: url("picture/bac.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#nav{
+    border:2px solid green;
+    background-color:beige;
+    margin: 30px;
+    padding: 10px;
+    text-align: center;
+}
+.li{
+    display: inline;
+    list-style-type: none;
+    padding:40px;
+}
+#header{
+    font-family: "Bradley Hand";
+    font-size: 20px;
+    text-align: center;
+    color:darkgreen;
+    background-color: beige;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+#footer{
+    background-color: beige;
+    padding: 10px;
+    text-align: center;
+}
+

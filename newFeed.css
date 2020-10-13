@@ -1,0 +1,25 @@
+.rnd{
+    border: 2px solid darkgreen;
+    border-radius: 8px;
+    margin: 10px;
+    background-color: beige;
+}
+h3{
+    font-size: 20px;
+    color:#602d07;
+    font-family: "Comic Sans MS";
+    text-align: center;
+
+}
+.dot{
+    font-size: 20px;
+}
+p{
+    font-size:20px;
+    text-align: center;
+}
+span{
+    color: darkred;
+    font-size: 20px;
+
+}
